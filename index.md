@@ -20,9 +20,7 @@ Dolphins range in size from the relatively small 1.7-metre-long (5 ft 7 in) long
 
 # First Milestone (What is a dolphin?)
 
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/MdRLVgRRce8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br></html>
-
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/MdRLVgRRce8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/MdRLVgRRce8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br></html>
 
   
 Dolphin is the common name of aquatic mammals within the infraorder Cetacea. The term dolphin usually refers to the extant families Delphinidae (the oceanic dolphins), Platanistidae (the Indian river dolphins), named Iniidae (the New World river dolphins), and Pontoporiidae (the brackish dolphins), and the extinct Lipotidae (baiji or Chinese river dolphin). There are 40 extant species named as dolphins.
